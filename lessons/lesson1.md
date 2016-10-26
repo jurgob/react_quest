@@ -5,7 +5,7 @@ be sure you have node (version 6) installed
 
 ```
 npm install -g create-react-app
-create-react-app mandi-mont
+create-react-app mandi-mond
 ```
 
 ```
@@ -16,7 +16,7 @@ the browser will be opened
 
 open App.js
 
-change "hello world" with "mandi mont"
+change "hello world" with "mandi mond"
 
 no refresh is needed!
 
