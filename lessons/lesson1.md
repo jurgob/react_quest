@@ -22,6 +22,9 @@ no refresh is needed!
 
 you did it!
 
+## Video:
+https://youtu.be/X_trKjozQSE
+
 ## Read More:
  - https://facebook.github.io/react/docs/thinking-in-react.html - understend react
  - https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html - a "real" tutorial aobut how to create a react app
