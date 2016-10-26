@@ -16,7 +16,7 @@ the browser will be opened
 
 open App.js
 
-change "hello world" with "mandi mond"
+change "Welcome to React" with "mandi mond"
 
 no refresh is needed!
 
