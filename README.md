@@ -12,6 +12,8 @@ dunno, when I will have time to do them :P
 ## will you talk about XXX?
 check "next" branch, lessons.md in particular, there's a "track" of the lessions I've in mind
 
+## DISCLAIMER:
+As anyone I don't have so mutch time, so probabily I'll do a lot of errors, so pass it over if they are not important or open a ticket.
 
 ## LINKS:
  - lession 1 - [create your first react app!](lessons/lesson1.md)
