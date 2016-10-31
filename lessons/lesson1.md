@@ -7,8 +7,10 @@ Be sure to have node (version 6) installed
 npm install -g create-react-app
 create-react-app mandi-mond
 ```
+This process could take a while. When everything is done:
 
 ```
+cd mandi-mond
 npm start
 ```
 
